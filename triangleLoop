@@ -1,0 +1,9 @@
+function trainagleLoop(n){
+    var output =""
+    for (var i = 1; i<=n; i++)
+    {
+        output +="#";
+        console.log(output);
+    }
+}
+trainagleLoop(7)
